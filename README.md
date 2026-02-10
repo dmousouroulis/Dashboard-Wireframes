@@ -18,8 +18,8 @@ A growing library of dashboard wireframes (PPTX) shared as projects for portfoli
 
 | Deck | Description | Download |
 |---|---|---|
-| Wireframe 1 - Executive Summary Dashboard | Executive summary layout / landing page with synthetic data | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Dashboard_Concept_1_Wireframe.pptx) |
-| Wireframe 2 - Personal Finance Dashboard | Personal finance dashboard wireframe with synthetic data | [Link](https://github.com/dmousouroulis/dashboard-wireframes/releases/tag/portfolio-decks/Wireframe_2_Personal_Finance.Dashboard.pptx) |
+| Wireframe 1 - Executive Summary Dashboard | Executive summary layout / landing page with synthetic data | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_1_Executive_Summary_Dashboard.pptx) |
+| Wireframe 2 - Personal Finance Dashboard | Personal finance dashboard wireframe with synthetic data | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_2_Personal_Finance.Dashboard.pptx) |
 
 ---
 
@@ -31,6 +31,6 @@ MIT License. See [LICENSE](LICENSE).
 
 ## Notes
 
-These wireframes are original work created for portfolio purposes.  
-They do not contain proprietary datasets, internal company content or confidential materials.  
-Thank you for checking! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dmousouroulis/) for weekly updates on dashboards and more.
+- These wireframes are original work created for portfolio purposes.  
+- They do not contain proprietary datasets, internal company content or confidential materials.  
+- Thank you for checking! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dmousouroulis/) for weekly updates on dashboards and more.
