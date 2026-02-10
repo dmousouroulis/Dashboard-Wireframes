@@ -16,9 +16,10 @@ A growing library of dashboard wireframes (PPTX) shared as projects for portfoli
 
 ## Contents
 
-| Deck | Description | Download (PPTX) |
+| Deck | Description | Download |
 |---|---|---|
-| Dashboard Concept 1 - Wireframe | Executive summary layout / landing page with synthetic data | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Dashboard_Concept_1_Wireframe.pptx) |
+| Wireframe 1 - Executive Summary Dashboard | Executive summary layout / landing page with synthetic data | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Dashboard_Concept_1_Wireframe.pptx) |
+| Wireframe 2 - Personal Finance Dashboard | Personal finance dashboard wireframe with synthetic data | [Link](https://github.com/dmousouroulis/dashboard-wireframes/releases/tag/portfolio-decks/Wireframe_2_Personal_Finance.Dashboard.pptx) |
 
 ---
 
