@@ -16,17 +16,24 @@ A growing library of dashboard wireframes (PPTX) shared as projects for portfoli
 
 ## Contents
 
-| Deck | Description | Download |
-|---|---|---|
-| Wireframe 1 - Executive Summary Dashboard | Executive summary layout / landing page with synthetic data | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_1_Executive_Summary_Dashboard.pptx) |
-| Wireframe 2 - Personal Finance Dashboard | Personal finance dashboard wireframe with synthetic data | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_2_Personal_Finance_Dashboard.pptx) |
-| Wireframe 3 - Superstore Sales Dashboard | Superstore sales dashboard wireframe with synthetic data | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_3_Superstore_Sales_Dashboard.pptx) |
+| Deck | Description | Preview | Download |
+|---|---|---|---|
+| Wireframe 1 - Executive Summary Dashboard | Executive summary layout / landing page | [Preview](https://drive.google.com/file/d/1x4a8YJqUM-dwXiCGZXBVx7e1N2pDAjz_/view) | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_1_Executive_Summary_Dashboard.pptx) |
+| Wireframe 2 - Personal Finance Dashboard | Personal finance dashboard wireframe | [Preview](https://drive.google.com/file/d/1oknIisYFP4vNwNseC6prbT_nNFC5W-bg/view) | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_2_Personal_Finance_Dashboard.pptx) |
+| Wireframe 3 - Superstore Sales Dashboard | Superstore sales dashboard wireframe | [Preview](https://drive.google.com/file/d/13UVSFSyFjnmGGgEXgYNNrwM4RSv6Knjx/view) | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_3_Superstore_Sales_Dashboard.pptx) |
 
 ---
 
-## How To Use
+## Previews
 
-- Tutorial:  
+- Google Drive:  
+  https://drive.google.com/drive/u/0/folders/1SPlTHILpKMw34UVkjECDBRKWijm-W9Px
+
+---
+
+## Tutorial
+
+- YouTube:  
   https://www.youtube.com/watch?v=o0z0SdPdy6Q
 
 ---
