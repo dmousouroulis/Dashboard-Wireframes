@@ -21,6 +21,7 @@ A growing library of dashboard wireframes (PPTX) shared as projects for portfoli
 | Wireframe 1 - Executive Summary Dashboard | Executive summary layout / landing page | [Preview](https://drive.google.com/file/d/1x4a8YJqUM-dwXiCGZXBVx7e1N2pDAjz_/view) | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_1_Executive_Summary_Dashboard.pptx) |
 | Wireframe 2 - Personal Finance Dashboard | Personal finance dashboard wireframe | [Preview](https://drive.google.com/file/d/1oknIisYFP4vNwNseC6prbT_nNFC5W-bg/view) | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_2_Personal_Finance_Dashboard.pptx) |
 | Wireframe 3 - Superstore Sales Dashboard | Superstore sales dashboard wireframe | [Preview](https://drive.google.com/file/d/13UVSFSyFjnmGGgEXgYNNrwM4RSv6Knjx/view) | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_3_Superstore_Sales_Dashboard.pptx) |
+| Wireframe 4 - Web Analytics Dashboard | Web analytics dashboard wireframe | [Preview](https://drive.google.com/file/d/1eEfPpZi00FrqosUwPEYmD4UX6b0xpkSx/view) | [Link](https://github.com/dmousouroulis/Dashboard-Wireframes/releases/download/portfolio-decks/Wireframe_4_Web_Analytics_Dashboard.pptx) |
 
 ---
 
